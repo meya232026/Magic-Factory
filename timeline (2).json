@@ -1,0 +1,1 @@
+{"duration": 21.2, "push": 0.72, "opt": 0.88, "pills": ["optics", "leg", "thorax", "abdomen", "exploded", "hero"], "script": [{"t": 3.0, "act": "optics"}, {"t": 5.7, "act": "leg"}, {"t": 8.2, "act": "thorax"}, {"t": 10.8, "act": "abdomen"}, {"t": 13.3, "act": "exploded"}, {"t": 16.5, "act": "assemble"}, {"t": 17.7, "act": "hero"}]}

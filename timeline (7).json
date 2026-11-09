@@ -1,0 +1,13 @@
+{
+  "duration": 24.8,
+  "script": [
+    {"t": 3.2, "act": "eyes"},
+    {"t": 5.8, "act": "leg"},
+    {"t": 8.4, "act": "abdomen"},
+    {"t": 11.0, "act": "head"},
+    {"t": 13.6, "act": "exploded"},
+    {"t": 16.9, "act": "assemble"},
+    {"t": 18.4, "act": "hero"},
+    {"t": 21.4, "act": "jump"}
+  ]
+}

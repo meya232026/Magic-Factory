@@ -1,0 +1,13 @@
+{
+  "duration": 24.0,
+  "script": [
+    {"t": 3.0, "act": "optics"},
+    {"t": 5.7, "act": "wing"},
+    {"t": 8.5, "act": "leg"},
+    {"t": 11.0, "act": "thorax"},
+    {"t": 13.6, "act": "abdomen"},
+    {"t": 16.1, "act": "exploded"},
+    {"t": 19.3, "act": "assemble"},
+    {"t": 20.5, "act": "hero"}
+  ]
+}
